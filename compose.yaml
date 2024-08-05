@@ -1,0 +1,5 @@
+services:
+  instance-mapper:
+    image: algonc/instance-mapper
+    ports:
+    - "8080:8080"
